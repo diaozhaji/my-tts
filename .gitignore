@@ -1,4 +1,6 @@
 txt/
+excel/
 *.txt
+res/
 
 .DS_Store
